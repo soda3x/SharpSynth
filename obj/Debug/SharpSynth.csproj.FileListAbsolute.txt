@@ -1,0 +1,10 @@
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\bin\Debug\SharpSynth.exe.config
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\bin\Debug\SharpSynth.exe
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\bin\Debug\SharpSynth.pdb
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.csprojAssemblyReference.cache
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.Main.resources
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.Properties.Resources.resources
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.csproj.GenerateResource.cache
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.csproj.CoreCompileInputs.cache
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.exe
+C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.pdb
