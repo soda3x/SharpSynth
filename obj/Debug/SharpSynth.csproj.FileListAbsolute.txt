@@ -8,3 +8,13 @@ C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.csproj
 C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.csproj.CoreCompileInputs.cache
 C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.exe
 C:\Users\Brad\Documents\GitHub\SharpSynth\SharpSynth\obj\Debug\SharpSynth.pdb
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\bin\Debug\SharpSynth.exe.config
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\bin\Debug\SharpSynth.exe
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\bin\Debug\SharpSynth.pdb
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.csprojAssemblyReference.cache
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.Main.resources
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.Properties.Resources.resources
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.csproj.GenerateResource.cache
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.csproj.CoreCompileInputs.cache
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.exe
+C:\Users\bnewm\OneDrive\Documents\GitHub\SharpSynth\obj\Debug\SharpSynth.pdb
